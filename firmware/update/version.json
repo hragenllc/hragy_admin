@@ -1,5 +1,5 @@
 {
-  "version": "1.5",
+  "version": "1.6",
   "update_file_url": "https://raw.githubusercontent.com/hragenllc/hragy/main/firmware/v2.0/Update/OtaUpdate.bin",
   "version_history": {
     "1.1": {
@@ -50,7 +50,7 @@
       }
     ]
     },
-    "1.5": {
+    "1.6": {
       "sd_files": [
       {
         "path": "/display/test/sound_on.bin",
