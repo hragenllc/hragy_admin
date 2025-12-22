@@ -2,7 +2,7 @@
   "version": "1.0",
   "update_file_url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.1/Update/OtaUpdate.bin",
   "version_history": {
-"1.1": {
+    "1.1": {
   "sd_files": [
 
     { "path": "/audio/bad_days_artsakh.wav", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.1/audio/bad_days_artsakh.wav" },
@@ -117,43 +117,7 @@
     { "path": "/display/new_year/tree_butterfly.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.1/display/new_year/tree_butterfly.bin" }
 
   ]
-},
-    "1.2": {
-      "sd_files": [
-      {
-        "path": "/display/test/sound_on.bin",
-        "url": "https://raw.githubusercontent.com/hragenllc/hragy/main/firmware/v2.0/display/sound_on.bin"
-      },
-      {
-        "path": "/audio/test/binary_numbers.wav",
-        "url": "https://raw.githubusercontent.com/hragenllc/hragy/main/firmware/v2.0/audio/binary_numbers.wav"
-      }
-    ]
-    },
-    "1.3": {
-      "sd_files": [
-      {
-        "path": "/display/test/sound_on.bin",
-        "url": "https://raw.githubusercontent.com/hragenllc/hragy/main/firmware/v2.0/display/sound_on.bin"
-      },
-      {
-        "path": "/audio/test/binary_numbers.wav",
-        "url": "https://raw.githubusercontent.com/hragenllc/hragy/main/firmware/v2.0/audio/binary_numbers.wav"
-      }
-    ]
-    },
-    "1.4": {
-      "sd_files": [
-      {
-        "path": "/display/test/sound_on.bin",
-        "url": "https://raw.githubusercontent.com/hragenllc/hragy/main/firmware/v2.0/display/sound_on.bin"
-      },
-      {
-        "path": "/audio/test/binary_numbers.wav",
-        "url": "https://raw.githubusercontent.com/hragenllc/hragy/main/firmware/v2.0/audio/binary_numbers.wav"
-      }
-    ]
-    },
+}
   }
 }
 
