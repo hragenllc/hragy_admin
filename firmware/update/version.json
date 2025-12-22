@@ -4,8 +4,6 @@
   "version_history": {
 "1.1": {
   "sd_files": [
-
-    /* ================= AUDIO FILES ================= */
     { "path": "/audio/bad_days_artsakh.wav", "url": "https://raw.githubusercontent.com/hragenllc/hragy/main/firmware/v1.1/audio/bad_days_artsakh.wav" },
     { "path": "/audio/bad_days_gyumri.wav", "url": "https://raw.githubusercontent.com/hragenllc/hragy/main/firmware/v1.1/audio/bad_days_gyumri.wav" },
     { "path": "/audio/bell.wav", "url": "https://raw.githubusercontent.com/hragenllc/hragy/main/firmware/v1.1/audio/bell.wav" },
@@ -87,7 +85,6 @@
     { "path": "/audio/your_voice_artsakh.wav", "url": "https://raw.githubusercontent.com/hragenllc/hragy/main/firmware/v1.1/audio/your_voice_artsakh.wav" },
     { "path": "/audio/your_voice_gyumri.wav", "url": "https://raw.githubusercontent.com/hragenllc/hragy/main/firmware/v1.1/audio/your_voice_gyumri.wav" },
 
-    /* ================= DISPLAY FILES ================= */
 
     { "path": "/display/christmas_intro.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy/main/firmware/v1.1/display/christmas_intro.bin" },
 
