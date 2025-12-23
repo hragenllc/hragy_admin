@@ -117,7 +117,6 @@
     { "path": "/display/new_year/bottle.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.1/display/new_year/bottle.bin" },
     { "path": "/display/new_year/candles_newyear.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.1/display/new_year/candles_newyear.bin" },
     { "path": "/display/new_year/deer.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.1/display/new_year/deer.bin" },
-    { "path": "/display/new_year/filelist.txt", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.1/display/new_year/filelist.txt" },
     { "path": "/display/new_year/gifts.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.1/display/new_year/gifts.bin" },
     { "path": "/display/new_year/santa_deers.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.1/display/new_year/santa_deers.bin" },
     { "path": "/display/new_year/santa_guitar.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.1/display/new_year/santa_guitar.bin" },
