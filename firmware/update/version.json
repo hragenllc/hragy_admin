@@ -6,7 +6,7 @@
       "sd_files": [
         { "path": "/audio/bell.wav", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.1/audio/bell.wav" },
         { "path": "/audio/bells.wav", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.1/audio/bells.wav" },
-        { "path": "/audio/bottle.wav", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.1/audio/bottle.wav" },
+        { "path": "/audio/bottle.wav", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.1/audio/bottle.wav" }
       ]
     }
   }
