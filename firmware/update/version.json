@@ -64,25 +64,25 @@
     },
     "1.2": {
       "sd_files": [
-        { "path": "/display/hy/komitas_icon.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/display/hy/komitas_icon.bin" },
-        { "path": "/display/hy/komitas_songs_1.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/display/hy/komitas_songs_1.bin" },
-        { "path": "/display/hy/komitas_songs_2.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/display/hy/komitas_songs_2.bin" },
+        { "path": "/display/hy/komitas_icon.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/display/komitas_icon.bin" },
+        { "path": "/display/hy/komitas_songs_1.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/display/komitas_songs_1.bin" },
+        { "path": "/display/hy/komitas_songs_2.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/display/komitas_songs_2.bin" },
 
-        { "path": "/display/hy/mansuryan_icon.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/display/hy/mansuryan_icon.bin" },
-        { "path": "/display/hy/mansuryan_songs_1.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/display/hy/mansuryan_songs_1.bin" },
-        { "path": "/display/hy/mansuryan_songs_2.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/display/hy/mansuryan_songs_2.bin" },
-        { "path": "/display/hy/mansuryan_songs_3.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/display/hy/mansuryan_songs_3.bin" },
-        { "path": "/display/hy/mansuryan_songs_4.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/display/hy/mansuryan_songs_4.bin" },
+        { "path": "/display/hy/mansuryan_icon.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/display/mansuryan_icon.bin" },
+        { "path": "/display/hy/mansuryan_songs_1.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/display/mansuryan_songs_1.bin" },
+        { "path": "/display/hy/mansuryan_songs_2.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/display/mansuryan_songs_2.bin" },
+        { "path": "/display/hy/mansuryan_songs_3.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/display/mansuryan_songs_3.bin" },
+        { "path": "/display/hy/mansuryan_songs_4.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/display/mansuryan_songs_4.bin" },
 
-        { "path": "/display/hy/music_icon.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/display/hy/music_icon.bin" },
+        { "path": "/display/hy/music_icon.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/display/music_icon.bin" },
 
-        { "path": "/display/music/komitas/komitas_garuna.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/display/music/komitas/komitas_garuna.bin" },
-        { "path": "/display/music/komitas/komitas_krunk.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/display/music/komitas/komitas_krunk.bin" },
+        { "path": "/display/music/komitas/komitas_garuna.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/display/komitas_garuna.bin" },
+        { "path": "/display/music/komitas/komitas_krunk.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/display/komitas_krunk.bin" },
 
-        { "path": "/display/music/mansuryan/mansuryan_2.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/display/music/mansuryan/mansuryan_2.bin" },
-        { "path": "/display/music/mansuryan/mansuryan_7.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/display/music/mansuryan/mansuryan_7.bin" },
-        { "path": "/display/music/mansuryan/mansuryan_12.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/display/music/mansuryan/mansuryan_12.bin" },
-        { "path": "/display/music/mansuryan/mansuryan_siro_meghedi.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/display/music/mansuryan/mansuryan_siro_meghedi.bin" },
+        { "path": "/display/music/mansuryan/mansuryan_2.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/display/mansuryan_2.bin" },
+        { "path": "/display/music/mansuryan/mansuryan_7.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/display/mansuryan_7.bin" },
+        { "path": "/display/music/mansuryan/mansuryan_12.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/display/mansuryan_12.bin" },
+        { "path": "/display/music/mansuryan/mansuryan_siro_meghedi.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/display/mansuryan_siro_meghedi.bin" },
 
         { "path": "/audio/komitas_garuna.wav", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/audio/komitas_garuna.wav" },
         { "path": "/audio/komitas_krunk.wav", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/audio/komitas_krunk.wav" },
