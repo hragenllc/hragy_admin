@@ -1,6 +1,6 @@
 {
   "version": "1.2",
-  "update_file_url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.1/Update/OtaUpdate.bin",
+  "update_file_url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/Update/OtaUpdate.bin",
   "version_history": {
     "1.0": {
       "sd_files": [
