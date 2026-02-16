@@ -64,7 +64,7 @@
     },
     "1.2": {
       "sd_files": [
-        { "path": "/display/hy/komitas_icon.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/display/komitas_icon.bin" },
+        { "path": "/display/komitas_icon.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/display/komitas_icon.bin" },
         { "path": "/display/hy/komitas_songs_1.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/display/komitas_songs_1.bin" },
         { "path": "/display/hy/komitas_songs_2.bin", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/display/komitas_songs_2.bin" },
 
