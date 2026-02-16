@@ -2,11 +2,16 @@
   "version": "1.2",
   "update_file_url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.2/Update/OtaUpdate.bin",
   "version_history": {
-    "1.2": {
+    "1.0": {
       "sd_files": [
-        { "path": "/audio/bell.wav", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.1/audio/bell.wav" },
-        { "path": "/audio/bells.wav", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.1/audio/bells.wav" },
-        { "path": "/audio/bottle.wav", "url": "https://raw.githubusercontent.com/hragenllc/hragy_admin/main/firmware/v1.1/audio/bottle.wav" }
+        {
+          "path": "/display/test/sound_on.bin",
+          "url": "https://raw.githubusercontent.com/hragenllc/hragy/main/firmware/v2.0/display/sound_on.bin"
+        },
+        {
+          "path": "/audio/test/binary_numbers.wav",
+          "url": "https://raw.githubusercontent.com/hragenllc/hragy/main/firmware/v2.0/audio/binary_numbers.wav"
+        }
       ]
     }
   }
