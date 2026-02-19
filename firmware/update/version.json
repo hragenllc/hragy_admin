@@ -4,15 +4,15 @@
   "version_history": {
     "1.0": {
       "sd_files": [
-      {
-        "path": "/display/test/sound_on.bin",
-        "url": "https://raw.githubusercontent.com/hragenllc/hragy/main/firmware/v2.0/display/sound_on.bin"
-      },
-      {
-        "path": "/audio/test/binary_numbers.wav",
-        "url": "https://raw.githubusercontent.com/hragenllc/hragy/main/firmware/v2.0/audio/binary_numbers.wav"
-      }
-    ]
+        {
+          "path": "/display/test/sound_on.bin",
+          "url": "https://cdn.jsdelivr.net/gh/hragenllc/hragy_admin@main/firmware/v2.0/display/sound_on.bin"
+        },
+        {
+          "path": "/audio/test/binary_numbers.wav",
+          "url": "https://cdn.jsdelivr.net/gh/hragenllc/hragy_admin@main/firmware/v2.0/audio/binary_numbers.wav"
+        }
+      ]
     }
   }
 }
