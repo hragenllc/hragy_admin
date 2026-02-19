@@ -6,7 +6,7 @@
       "sd_files": [
         {
           "path": "/display/test/sound_on.bin",
-          "url": "https://cdn.jsdelivr.net/gh/hragenllc/hragy_admin@main/firmware/v2.0/display/sound_on.bin"
+          "url": "https://github.com/hragenllc/hragy_admin/tree/main/firmware/v2.0/display/sound_on.bin"
         },
         {
           "path": "/audio/test/binary_numbers.wav",
